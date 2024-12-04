@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 280bae42f1756e64ea0e6b0fbcb9d978
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: c109fd2b1bd82e44bb4fc04d6158668c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barriere_Baked
+    second: {fileID: 2100000, guid: 91e3e1715e590af44b14a618edb423a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bridge_Baked
+    second: {fileID: 2100000, guid: 06585bc1de8176846b8465be18bbe7a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Container_Baked
+    second: {fileID: 2100000, guid: bb88215332a76fb4ba431a6655598891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cordoli_Baked
+    second: {fileID: 2100000, guid: eaea81209e3b4424eb084bf79e5c24d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gradinata_Baked
+    second: {fileID: 2100000, guid: 520d2c5b41f429f46a49244bc8d03a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grid_Baked
+    second: {fileID: 2100000, guid: 73c742cc7c021b54499ebf8f638752c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JERpaddock_Baked
+    second: {fileID: 2100000, guid: fb2fbafcd08a9a342acb74de39d0dd54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JERtiopepe_Baked
+    second: {fileID: 2100000, guid: c75c2e41c312bc641b3571cd763cacd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Brecciolino_Baked
+    second: {fileID: 2100000, guid: 0594638934368234fbf6b57258293fd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Circuit_tros_Baked
+    second: {fileID: 2100000, guid: dead6b44e0254db4790433ede90d7188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Corridoio_Baked
+    second: {fileID: 2100000, guid: 7319e986eae86ee47908dee0c15ba909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Herba_Baked
+    second: {fileID: 2100000, guid: 10abb62c0af52a242a4b8703c9e7607b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jerez_ParkingA_Baked
+    second: {fileID: 2100000, guid: aa83544cfe582f64287501574f8d1c3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jerez_ParkingB_Baked
+    second: {fileID: 2100000, guid: 3a5ec3e64313b12449c5d705f1c13eb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Road_Baked
+    second: {fileID: 2100000, guid: b73254118df83634c9c576c0b7fd4787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Linee_Baked
+    second: {fileID: 2100000, guid: 5153510fe05368b4fb4029f6d49c7c4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paddok_Baked
+    second: {fileID: 2100000, guid: 1bd66d12c473aa2499564b831e3304da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pneumatici_Baked
+    second: {fileID: 2100000, guid: 35f6efb8274bc684182b20b18273426d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra_Externa_Baked
+    second: {fileID: 2100000, guid: 295b2f295e5ec39449b89e3a90eaa2b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vial_Baked
+    second: {fileID: 2100000, guid: 6a80d4cdb8ed7d24c8d8ed56fb65f34b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Barriere_Baked
+    second: {fileID: 2800000, guid: 6266b7ae912ea0748a7fcb72b6340eb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_Baked
+    second: {fileID: 2800000, guid: 8d110b48b0c32074bb9668ae2876a9c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Container_Baked
+    second: {fileID: 2800000, guid: 8ccb90666f94da44fbe0c88dd19fe480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cordoli_Baked
+    second: {fileID: 2800000, guid: 0e42244cb3f7db14a9bfc2ae0fd1b5a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gradinata_Baked
+    second: {fileID: 2800000, guid: ab20b9ec0bcf6d74caa71e6da1ddd5ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grid_Baked
+    second: {fileID: 2800000, guid: c2da8b64fd36b9042811fc29dcf1ee09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JERpaddock_Baked
+    second: {fileID: 2800000, guid: b7563f994ea9a2d45813caba41e35db1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JERtiopepe_Baked
+    second: {fileID: 2800000, guid: 3c509ca9ebd87714aaa64bb69f58abe9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Brecciolino_Baked
+    second: {fileID: 2800000, guid: 328410cda2e283d41b91943bd3b39e3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Circuit_tros_Baked
+    second: {fileID: 2800000, guid: 7d91c5b6371f7a54a802ab33890f69dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Corridoio_Baked
+    second: {fileID: 2800000, guid: 7e34675466e5cf947ad26c7f386af861, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Herba_Baked
+    second: {fileID: 2800000, guid: f4f2e155c71482d4982674ec4a6ab9ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jerez_ParkingA_Baked
+    second: {fileID: 2800000, guid: ed213bbdc0f2e504992a6bc7ba9e42e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jerez_ParkingB_Baked
+    second: {fileID: 2800000, guid: c81bbf8f6f2838b4b945eab752c41141, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jerez_Road_Baked
+    second: {fileID: 2800000, guid: 36f11c042c4466f4296bc0174d38dc3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Linee_Baked
+    second: {fileID: 2800000, guid: 7394d38b22bafb54a83fa1e80c835ac8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paddok_Baked
+    second: {fileID: 2800000, guid: 05178124e4d14a74bb997db865600eb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PistaOutline_Baked
+    second: {fileID: 2800000, guid: 973375240279cfc4ebce5d74fdd423b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pneumatici_Baked
+    second: {fileID: 2800000, guid: 15763918a64b1b649bc3228bbd2b2210, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Terra_Externa_Baked
+    second: {fileID: 2800000, guid: c6acf3981deb4aa4cad7baea805f99c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vial_Baked
+    second: {fileID: 2800000, guid: 36ddcab8ae21cf9408d9a61e9e7483d0, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

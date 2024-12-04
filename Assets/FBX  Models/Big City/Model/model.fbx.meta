@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: e11280928899bf14e8ad2db2dcde75c9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree.Birch.Bark.Mat
+    second: {fileID: 2100000, guid: d123e7099cb1a584cb3f481f4f99d51b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture
+    second: {fileID: 2100000, guid: b7e6d7d06b1765a4998470b64f8e4c27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_0
+    second: {fileID: 2100000, guid: ec89e17a40ad0864a9884e798fe2ecad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_1
+    second: {fileID: 2100000, guid: e2a2f29e436c5914b8a62af79b3f5b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_10
+    second: {fileID: 2100000, guid: 4461648f9ca73e8499e00c0487695b6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_11
+    second: {fileID: 2100000, guid: 73cdd9587d4a687479b3646ee69b4b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_12
+    second: {fileID: 2100000, guid: 62be302b141071c4cb50aadef9f17304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_13
+    second: {fileID: 2100000, guid: 4d4c7c334eadd834e81c23fd99dcdb4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_14
+    second: {fileID: 2100000, guid: be574cb672e8c2f419f959eec2e62112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_15
+    second: {fileID: 2100000, guid: 8aa38a058a7b1fa40b68d840f960214f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_16
+    second: {fileID: 2100000, guid: dcd712ecfa6b4fd4db6070a4034f8a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_17
+    second: {fileID: 2100000, guid: 2ae7573802ebb56468973a340d5884a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_18
+    second: {fileID: 2100000, guid: c8f947e08d92b6d4f9ba2599d6cbd456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_19
+    second: {fileID: 2100000, guid: 7756e749dabd47a41b014b631a573d2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_2
+    second: {fileID: 2100000, guid: 22ac8e0975327554aa42a5d6689d4cc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_20
+    second: {fileID: 2100000, guid: 68fca45fb5b7f264e87bc9ee9d6c21e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_21
+    second: {fileID: 2100000, guid: e767051e274c59f4595744b837b1028f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_22
+    second: {fileID: 2100000, guid: 490e3cb7d346c354699bab052a4412a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_23
+    second: {fileID: 2100000, guid: 8c322efba4663a547a4f5ccf28554bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_24
+    second: {fileID: 2100000, guid: 4c49b7d0cbc01d64f9200a6881e8bfbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_25
+    second: {fileID: 2100000, guid: 30ab0e03c8c184f44aded490b613f098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_26
+    second: {fileID: 2100000, guid: 4531ab5e7bdf6f24b8a0ff372bcf1603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_27
+    second: {fileID: 2100000, guid: fe3f52e8723d7334e8c95c87cf50905a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_28
+    second: {fileID: 2100000, guid: 7006db71b88f1e64e9883999b5a74bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_29
+    second: {fileID: 2100000, guid: 2f7da0d10e623544aac48424b24f6b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_3
+    second: {fileID: 2100000, guid: ef0c65747a332d9498c7d036b3a0909d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_30
+    second: {fileID: 2100000, guid: 54ca701a5faf894479a4cfdcdf13d20a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_31
+    second: {fileID: 2100000, guid: 14e4b79b60de32248b372c9d8c8e7f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_32
+    second: {fileID: 2100000, guid: 952fa1877ae5e4c43b4c812988e734ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_33
+    second: {fileID: 2100000, guid: 8b336d986481b8e48b6f044cf49e44d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_34
+    second: {fileID: 2100000, guid: 7457696994e96ba49a8ceb758d4a9bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_35
+    second: {fileID: 2100000, guid: 16484aa81638bf540a127cbe952023b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_36
+    second: {fileID: 2100000, guid: 89099a1350cab69448e1c18ab7fa8c10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_37
+    second: {fileID: 2100000, guid: e111cc3299d9f18418162ba2714d9b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_38
+    second: {fileID: 2100000, guid: ea19aeb79c4ef85409c25d6307e97bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_39
+    second: {fileID: 2100000, guid: b46a0d453bfd6e8499982e0727c69546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_4
+    second: {fileID: 2100000, guid: ab7e447f019d323409234f48fe5ffdf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_40
+    second: {fileID: 2100000, guid: 0e894de9f2e54764eb62eea941def6e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_41
+    second: {fileID: 2100000, guid: 2a6840cefcd244e4daae7c13e937b1c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_42
+    second: {fileID: 2100000, guid: 6e7566fdb2bfe8e4c878ec06dd19c53c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_43
+    second: {fileID: 2100000, guid: e26c4fb2fd2aba04e8ec67793155c761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_44
+    second: {fileID: 2100000, guid: 268c3d8cf11cd444aa6f5b81d7b292f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_45
+    second: {fileID: 2100000, guid: 7122120139eb371499e0fa4d01169ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_46
+    second: {fileID: 2100000, guid: 23d609890883ce14399a677a5e652246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_47
+    second: {fileID: 2100000, guid: 4f0a0bb0550342f4ca3384aa4332a839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_48
+    second: {fileID: 2100000, guid: 39183bd377172ee49b0ef20a0a20c761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_49
+    second: {fileID: 2100000, guid: e7fef2380394fb0459b06b18cd8b8815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_5
+    second: {fileID: 2100000, guid: ddb72c6e2b87a5144b6dc74c1692bfb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_50
+    second: {fileID: 2100000, guid: 930c19daaca244e45aec18856293cb8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_51
+    second: {fileID: 2100000, guid: 3bf0545744f2d0143af26de37711d4b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_52
+    second: {fileID: 2100000, guid: 6b76759666c7b6944a7b7927bea7f091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_53
+    second: {fileID: 2100000, guid: 3cc1e51276e0200479535a14060ee3eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_54
+    second: {fileID: 2100000, guid: ad037ca611fbddf42a3313ab38fed115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_55
+    second: {fileID: 2100000, guid: 42de424647172ee42a97b7e8571f69c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_56
+    second: {fileID: 2100000, guid: ed923ddbc911a3a4aa79a5d988b2d714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_57
+    second: {fileID: 2100000, guid: 0c0dff7ba9c8b1046b14751e91d1c707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_58
+    second: {fileID: 2100000, guid: a3530bc205e5719459aa07e719dc054c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_59
+    second: {fileID: 2100000, guid: be0fd9e0770b6714f8b3ab3ceaaaa2dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_6
+    second: {fileID: 2100000, guid: 1dd0d8257fdd09f46bb846efdd905f7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_60
+    second: {fileID: 2100000, guid: 07240968cc8bdbb43b4a7973e0264f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_61
+    second: {fileID: 2100000, guid: 5ce91fbbac748974b9ec40c3023229ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_62
+    second: {fileID: 2100000, guid: cc63756dba187824c9f9c37bf34ed37f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_7
+    second: {fileID: 2100000, guid: abf57007a46cc9e4db2609ec73bb8d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_8
+    second: {fileID: 2100000, guid: 7d18cd4b09da34b43a59a9bbb2d8c9c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: my_city_0FacadeTexture_9
+    second: {fileID: 2100000, guid: 4be86630ee376a244b54b9f83bc4ba46, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
